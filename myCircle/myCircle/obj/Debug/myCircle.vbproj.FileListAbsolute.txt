@@ -9,3 +9,14 @@ C:\Users\lee.macri\OneDrive - Trinity Schools\Workspace\myCircle\myCircle\obj\De
 C:\Users\lee.macri\OneDrive - Trinity Schools\Workspace\myCircle\myCircle\obj\Debug\myCircle.exe
 C:\Users\lee.macri\OneDrive - Trinity Schools\Workspace\myCircle\myCircle\obj\Debug\myCircle.xml
 C:\Users\lee.macri\OneDrive - Trinity Schools\Workspace\myCircle\myCircle\obj\Debug\myCircle.pdb
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\bin\Debug\myCircle.exe.config
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\bin\Debug\myCircle.exe
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\bin\Debug\myCircle.pdb
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\bin\Debug\myCircle.xml
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\obj\Debug\myCircle.vbprojAssemblyReference.cache
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\obj\Debug\myCircle.Resources.resources
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\obj\Debug\myCircle.vbproj.GenerateResource.cache
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\obj\Debug\myCircle.vbproj.CoreCompileInputs.cache
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\obj\Debug\myCircle.exe
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\obj\Debug\myCircle.xml
+C:\Users\amy\Downloads\circle-class-142019-master (1)\circle-class-142019-master\myCircle\myCircle\obj\Debug\myCircle.pdb
